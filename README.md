@@ -1,4 +1,4 @@
 # New project 
 
 This project was created from local system.
-Created by Komal Vaishnav.
+Created by Vaishnav Komal.
